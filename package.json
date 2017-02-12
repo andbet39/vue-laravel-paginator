@@ -1,0 +1,11 @@
+{
+  "name": "vue-laravel-paginator",
+  "version": "1.0.0",
+  "description": "A simple paginator for Vue in Laravel application",
+  "main": "Paginator.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Terzani",
+  "license": "ISC"
+}
