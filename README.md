@@ -17,9 +17,9 @@ Below a simple Vue Component that use paginator on a items list using Laravel pa
 ```php
 
 public function index()
-    {
-        return DB::table('items')->Paginate(10);
-    }
+{
+    return DB::table('items')->Paginate(10);
+}
 ```
 
 ###Vue component
