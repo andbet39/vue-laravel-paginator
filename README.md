@@ -11,7 +11,18 @@ npm install --save vue-laravel-paginator
 ```
 
 ##Example
+Below a simple Vue Component that use paginator on a items list using Laravel pagination feature.
+###Laravel code
 
+```php
+
+public function index()
+    {
+        return DB::table('items')->Paginate(10);
+    }
+```
+
+###Vue component
 ```javascript
 <template id="item-list">
   <div class="item-list">
