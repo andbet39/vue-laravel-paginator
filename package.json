@@ -1,10 +1,14 @@
 {
   "name": "vue-laravel-paginator",
   "version": "1.0.0",
-  "description": "A simple paginator for Vue in Laravel application",
+  "description": "A simple Vue paginator for Laravel application",
   "main": "Paginator.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andbet39/vue-laravel-paginator.git"
   },
   "author": "Andrea Terzani",
   "license": "ISC"
