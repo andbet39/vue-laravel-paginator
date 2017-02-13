@@ -1,6 +1,6 @@
 {
   "name": "vue-laravel-paginator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple Vue paginator for Laravel application",
   "main": "Paginator.vue",
   "scripts": {
@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/andbet39/vue-laravel-paginator.git"
   },
+  "keywords": [
+    "pagination",
+    "control",
+    "bootstrap",
+    "laravel",
+    "vue"
+  ],
   "author": "Andrea Terzani",
   "license": "ISC"
 }
